@@ -1,0 +1,5 @@
+@media (min-width: 992px) {
+    .custom-col{
+        max-width: 20%;
+    }
+}
