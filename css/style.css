@@ -450,3 +450,16 @@ footer form input{
 .contact .infor-right{
     padding: 30px;
 }
+
+.about-infor .about-infor__title {
+    font-size: 35px;
+    font-weight: bold;
+    margin: 20px 0 30px;
+}
+
+.about-infor .about-infor__content{
+    width: 70%;
+    margin: auto;
+    color: #838383;
+    font-weight: 100;
+    font-size: 12px;
